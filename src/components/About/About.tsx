@@ -36,12 +36,8 @@ const About: React.FunctionComponent<AboutProps> = ({
           psychology, and my neverending hunger for growth.
         </p>
 
-        <p>
-          When not building stuff, I love to explore, read fascinating books,
-          learn languages, write about my experiences in life, have amazing
-          dinners and meet interesting people. I am also obsessed with building
-          positive habits. I believe they are the keys to unlock our full
-          potential.
+          <p>
+            jargaltaia asdawd aw ba erdenes ba bawaaa shaawaa 
         </p>
 
         <p>
